@@ -1,0 +1,5 @@
+version: R2023b
+project:
+  worlds:
+    - file: "worlds/mission2.wbt"
+      controller: "jetson_py"
